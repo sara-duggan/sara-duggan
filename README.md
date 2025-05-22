@@ -1,16 +1,39 @@
-## Hi there 👋
+## About me 
 
-<!--
-**sara-duggan/sara-duggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+Name: Sara Duggan
+Current Role: Financial Management Data Analyst 
+Education:
+  [
+    "University of Maryland Global Campus: Master's in Business Administration",
+    "Towson University: Bachelor of Science in Athletic Training",
+    "CAPM: Certified Associate in Project Management",
+    "Google Data Analytics Professional Certification"
+  ]
 
-Here are some ideas to get you started:
+Agency: NAVSUP WSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interest:
+  [
+    "Data Analytics",
+    "Business Intelligence",
+    "Programming and coding",
+    "Data Visualization via Power BI and Tableau"
+  ]
+
+technical_background
+  [
+    "Business Analyst",
+    "Data Analyst",
+    "Power BI Essential Training",
+    "Google Data Analytics Certification",
+    "Data Visualization: Tableau and Power BI",
+    "ETL via Power Query, Excel, SQL RDMS"
+  ]
+
+currently_learning: ["Python", "C++", "Julia", "Jupyter"]
+2025 Goals: ["Create 5 new projects and learn 3 new technologies"]
+hobbies: ["Reading", "CrossFit", "Art"]
+ ```
+
+
