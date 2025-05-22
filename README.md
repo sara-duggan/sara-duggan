@@ -1,9 +1,10 @@
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20there,&#x1F44B%20I'm%20Sara!&fontSize=50" />
 
 <header>
-  <h1 style="font-size: 12rem; color: #2ecc71">Hi Everyone!</h1>
+  <h1 style="font-size: 6rem; color: #2ecc71">A Little Bit About Me:</h1>
 </header>
-A Little Bit About Me:
+
 
 ```yaml
 Name: Sara Duggan
