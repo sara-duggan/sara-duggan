@@ -44,7 +44,7 @@ hobbies: ["Reading", "CrossFit", "Art"]
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,sqlite,py" />
+    <img src="https://skillicons.dev/icons?i=r,sqlite,mysql,py" />
   </a>
 </p>
  
