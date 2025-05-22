@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20there,&#x1F44B%20I'm%20Sara!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Hi%20,&#x1F44B%20I'm%20Sara&fontSize=50" />
 
 <header>
   <h1 style="font-size: 6rem; color: #2ecc71">A Little Bit About Me:</h1>
