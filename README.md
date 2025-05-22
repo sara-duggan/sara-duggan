@@ -1,7 +1,7 @@
 <header>
   <h1>Hi Everyone!</h1>
 </header>
-About me
+A Little Bit About Me:
 
 ```yaml
 Name: Sara Duggan
@@ -34,7 +34,7 @@ technical_background
     "ETL via Power Query, Excel, SQL RDMS"
   ]
 
-currently_learning: ["Python", "C++", "Julia", "Jupyter"]
+currently_learning: ["Python", "C++", "HTML", "Jupyter"]
 2025 Goals: ["Create 5 new projects and learn 3 new technologies"]
 hobbies: ["Reading", "CrossFit", "Art"]          
  ```
