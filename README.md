@@ -38,7 +38,15 @@ technical_background
 
 currently_learning: ["Python", "C++", "HTML", "Jupyter"]
 2025 Goals: ["Create 5 new projects and learn 3 new technologies"]
-hobbies: ["Reading", "CrossFit", "Art"]          
- ```
+hobbies: ["Reading", "CrossFit", "Art"]
+
+
+```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,sqlite,py" />
+  </a>
+</p>
+ 
 
 
