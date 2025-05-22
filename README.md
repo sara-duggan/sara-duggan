@@ -1,4 +1,7 @@
-## About me 
+<header>
+  <h1>Hi Everyone!</h1>
+</header>
+About me
 
 ```yaml
 Name: Sara Duggan
