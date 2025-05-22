@@ -1,5 +1,7 @@
+
+
 <header>
-  <h1>Hi Everyone!</h1>
+  <h1 style="font-size: 12rem; color: #2ecc71">Hi Everyone!</h1>
 </header>
 A Little Bit About Me:
 
