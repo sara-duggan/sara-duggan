@@ -7,7 +7,18 @@
 
 ```yaml
 Name: Sara Duggan
-Current Role: Financial Management Data Analyst 
+
+Professional Summary:
+  [
+    "Strategic and analytical Financial Management Data Analyst with strong foundation in data-driven
+financial analysis, risk management, compliance and inventory accuracy within government contracting environments.
+Adept at developing high-impact reports and tools to support internal audits and operational effectiveness.
+Act as supporting data analyst between the audit readiness department to provide in depth analysis through ETL methods
+that gain insight into trends and forecasts for predictive analysis"
+  ]
+ 
+Current Role: Financial Management Data Analyst
+ 
 Education:
   [
     "University of Maryland Global Campus: Master's in Business Administration",
@@ -17,7 +28,24 @@ Education:
   ]
 
 Agency: NAVSUP WSS
+```
 
+
+<header>
+  <h1 style="font-size: 6rem; color: #2ecc71">Skills & Interests:</h1>
+
+
+```yaml
+I currently use the following tools to perform data analysis:
+```
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,sqlite,mysql,py" />
+  </a>
+</p>
+
+```yaml
 fields_of_interest:
   [
     "Data Analytics",
@@ -37,16 +65,9 @@ technical_background
   ]
 
 currently_learning: ["Python", "C++", "HTML", "Jupyter"]
-2025 Goals: ["Create 5 new projects and learn 3 new technologies"]
+2025 Goals: ["Create 5 new projects and learn 4 new technologies"]
 hobbies: ["Reading", "CrossFit", "Art"]
 
-
-```
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,sqlite,mysql,py" />
-  </a>
-</p>
  
-
+```
 
