@@ -1,9 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=&#x1F44B%0HHi%20there,%20I'm%20Sara&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=&#x1F44B%0HHi%20there,%20I'm%20Sara&fontSize=40" />
 <header>
   <h1 style="font-size: 6rem; color: #2ecc71">A Little Bit About Me:</h1>
 </header>
 
+<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <span style="font-weight: bold;">Frontend Skills</span><br>
+   <img src="https://skillicons.dev/icons?i=r,sqlite,mysql,py" />
+</div>
 
 ```yaml
 Name: Sara Duggan
@@ -28,24 +32,7 @@ Education:
   ]
 
 Agency: NAVSUP WSS
-```
 
-
-<header>
-  <h1 style="font-size: 6rem; color: #2ecc71">Skills & Interests:</h1>
-
-
-```yaml
-I currently use the following tools to perform data analysis:
-```
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,sqlite,mysql,py" />
-  </a>
-</p>
-
-```yaml
 fields_of_interest:
   [
     "Data Analytics",
@@ -68,6 +55,10 @@ currently_learning: ["Python", "C++", "HTML", "Jupyter"]
 2025 Goals: ["Create 5 new projects and learn 4 new technologies"]
 hobbies: ["Reading", "CrossFit", "Art"]
 
- 
 ```
+
+
+
+
+ 
 
