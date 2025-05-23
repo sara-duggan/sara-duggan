@@ -57,8 +57,8 @@ hobbies: ["Reading", "CrossFit", "Art"]
 
 ```
 
+Contact me:
 
-
-
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sara-duggan-lat-atc-cpt-504561b5/)
  
-
+[![Email](https://img.shields.io/badge/Yahoo-Contact_Me-green?style=flat-square&logo=gmail)](mailto:sara_duggan@yahoo.com)
