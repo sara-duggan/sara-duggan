@@ -53,7 +53,7 @@ technical_background
     "ETL via Power Query, Excel, SQL RDMS"
   ]
 
-currently_learning: ["Python", "C++", "HTML", "Jupyter"]
+currently_learning: ["Java", "C++", "HTML"]
 2025 Goals: ["Create 5 new projects and learn 4 new technologies"]
 hobbies: ["Reading", "CrossFit", "Art"]
 
