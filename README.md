@@ -6,8 +6,10 @@
 
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
     <span style="font-weight: bold;">Frontend Skills</span><br>
+<p align="center">
    <img src="https://skillicons.dev/icons?i=r,sqlite,mysql,py,vscode,windows" />
 </div>
+
 
 ```yaml
 Name: Sara Duggan
