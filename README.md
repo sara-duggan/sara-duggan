@@ -6,7 +6,7 @@
 
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
     <span style="font-weight: bold;">Frontend Skills</span><br>
-   <img src="https://skillicons.dev/icons?i=r,sqlite,mysql,py" />
+   <img src="https://skillicons.dev/icons?i=r,sqlite,mysql,py,visualstudio" />
 </div>
 
 ```yaml
